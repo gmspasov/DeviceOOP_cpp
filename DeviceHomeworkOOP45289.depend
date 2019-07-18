@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\grade\desktop\devicehomeworkoop45289\main.cpp
+	<iostream>
+
+1558974720 source:c:\users\grade\desktop\devicehomeworkoop45289\src\car.cpp
+	"Car.h"
+
+1558974700 c:\users\grade\desktop\devicehomeworkoop45289\include\car.h
+	<Device.h>
+	<iostream>
+
+1558974676 c:\users\grade\desktop\devicehomeworkoop45289\include\device.h
+	"cstring"
+
+1558971025 source:c:\users\grade\desktop\devicehomeworkoop45289\src\device.cpp
+	"Device.h"
+
+1558999622 source:c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\main.cpp
+	<iostream>
+	"Laptop.h"
+	"Car.h"
+	"Inventory.h"
+
+1558998606 source:c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\src\car.cpp
+	"Car.h"
+
+1558974700 c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\include\car.h
+	<Device.h>
+	<iostream>
+
+1558974676 c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\include\device.h
+	"cstring"
+
+1558971025 source:c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\src\device.cpp
+	"Device.h"
+
+1558999069 source:c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\src\inventory.cpp
+	"Inventory.h"
+	<iostream>
+
+1558999466 c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\include\inventory.h
+	"Device.h"
+
+1558998606 source:c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\src\laptop.cpp
+	"Laptop.h"
+
+1558998215 c:\users\georgi\downloads\device_homeworkoop45289\devicehomeworkoop45289\include\laptop.h
+	<Device.h>
+	<iostream>
+
